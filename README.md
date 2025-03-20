@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there! I'm Ammar Shaikh 👋  
+🚀 Backend Developer | Laravel | Node.js | AWS  
 
-<!--
-**MrShk7/MrShk7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **About Me**  
+- 4+ years of experience in backend development  
+- Passionate about API design, cloud computing, and scalable web apps  
 
-Here are some ideas to get you started:
+🛠 **Tech Stack**  
+- **Backend:** Laravel, Node.js, PHP  
+- **Databases:** MySQL, MongoDB  
+- **DevOps & Cloud:** AWS (Lambda, S3, RDS), Docker, Nginx  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Pinned Projects**  
+- [nodeReact](https://github.com/MrShk7/nodeReact) - A Node.js & React app  
+- [ms1.github.io](https://github.com/MrShk7/ms1.github.io) - Static website  
+
+📫 **Connect with Me**  
+[LinkedIn](https://in.linkedin.com/in/ammarshaikh-dev)   
+
+---
